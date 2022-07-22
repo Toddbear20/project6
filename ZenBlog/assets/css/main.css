@@ -17,6 +17,10 @@
 
 body {
   color: rgba(var(--color-primary-rgb), 1);
+  background-image: url('../../logo.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50%;
 }
 
 a {
